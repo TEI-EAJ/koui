@@ -1,0 +1,12 @@
+{
+  "name": "カレンダー検索",
+  "short_name": "カレンダー",
+  "description": "カレンダー形式の可視化を行います。",
+  "icons": [],
+  "start_url": "/koui/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
