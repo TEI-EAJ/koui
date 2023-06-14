@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="https://tei-eaj.github.io/koui/src/vmachine.xsl" type="text/xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,68 +90,68 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <surfaceGrp facs="https://www.dl.ndl.go.jp/api/iiif/3437686/manifest.json">
+      <surfaceGrp facs="https://dl.ndl.go.jp/api/iiif/3437686/manifest.json">
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/22" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000022/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/22" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000022/full/full/0/default.jpg"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0005"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/23" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000023/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/23" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000023/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0006"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0007"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/24" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000024/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/24" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000024/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0008"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0009"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/25" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000025/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/25" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000025/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0010"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0011"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/26" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000026/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/26" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000026/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0012"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0013"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/27" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000027/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/27" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000027/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0014"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0015"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/28" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000028/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/28" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000028/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0016"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0017"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/29" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000029/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/29" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000029/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0018"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0019"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/30" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000030/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/30" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000030/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0020"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0021"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/31" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000031/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/31" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000031/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0022"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0023"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/32" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000032/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/32" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000032/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0024"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0025"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/33" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000033/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/33" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000033/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0026"/>
             <zone lrx="3445" lry="4706" ulx="0" uly="0" xml:id="zone_0027"/>
          </surface>
          <surface>
-            <graphic n="https://www.dl.ndl.go.jp/api/iiif/3437686/canvas/34" url="https://www.dl.ndl.go.jp/api/iiif/3437686/R0000034/full/full/0/default.jpg"/>
+            <graphic n="https://dl.ndl.go.jp/api/iiif/3437686/canvas/34" url="https://dl.ndl.go.jp/api/iiif/3437686/R0000034/full/full/0/default.jpg"/>
             <zone lrx="6890" lry="4706" ulx="3445" uly="0" xml:id="zone_0028"/>
          </surface>
       </surfaceGrp>
